@@ -1,1 +1,2 @@
-#This is my new repo
+# This is my new repo
+# I am learning git and github 
